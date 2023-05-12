@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/al-amine/Bureau/Flutter/asynconf/linux",
+    "yaml.schemas": {
+        "https://json.schemastore.org/sourcehut-build-0.65.0.json": "file:///home/al-amine/Bureau/Flutter/asynconf/pubspec.yaml"
+    }
+}
